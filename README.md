@@ -1,10 +1,10 @@
 # PaperLimit
 
 #RUNNING THE MODEL
-1.
-.IPYNB model can be openend in Jupyter notebooks
-.PY model can be opened with Python
-2.
+#1.
+#.IPYNB model can be openend in Jupyter notebooks
+#.PY model can be opened with Python
+#2.
 Install the packages that are annotated in the code
 3.
 Set Parameters under "Parameters Model"
