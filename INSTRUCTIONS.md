@@ -1,6 +1,5 @@
-# PaperLimit
 
-#RUNNING THE MODEL
+########  RUNNING THE MODEL ########
 
 1.
 
@@ -22,7 +21,9 @@ Data will be stored as .npz files
 
 
 
-#READING THE DATA
+
+
+######## READING THE DATA #######
 
 1.
 
@@ -43,6 +44,8 @@ and the following command to retrieve the tracked  statistics per generation
 --> statistic = data["statistic"]
 
 every statistic retrieved has the shape of a matrix with the size of [repeats x generations]
+
+
 
 
 The following statistics can be retrieved from the file:
